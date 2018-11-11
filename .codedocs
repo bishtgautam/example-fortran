@@ -29,6 +29,7 @@ TAGLINKS =
 #---------------------------------------------------------------------------
 # Doxygen Configuration
 #---------------------------------------------------------------------------
+FILE_PATTERNS          = *.F90
 
 # Doxygen configuration may also be placed in this file.
 # Currently, the following Doxygen configuration options are available. Refer
