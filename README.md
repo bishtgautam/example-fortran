@@ -1,5 +1,7 @@
 [![Codecov](https://codecov.io/gh/bishtgautam/example-fortran/branch/master/graph/badge.svg)](https://codecov.io/gh/bishtgautam/example-fortran)
 
+[![Documentation](https://codedocs.xyz/bishtgautam/example-fortran.svg)](https://codedocs.xyz/bishtgautam/example-fortran/)
+
 # [Codecov][1] Fortran Example
 ## Guide
 ### Travis Setup
